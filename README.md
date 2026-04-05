@@ -143,19 +143,19 @@ Higher deficits crowd out private credit and raise real interest rates. India's 
 ## Visualizations
 
 ### Actual vs Model-Fitted GDP Growth
-![Actual vs Fitted](charts/chart1_actual_vs_fitted.png)
+![Actual vs Fitted](charts/Actual_vs_fitted.png)
 
 ### OLS Regression Coefficients
-![Coefficients](charts/chart2_coefficients.png)
+![Coefficients](charts/Coefficients.png)
 
 ### Correlation Matrix
-![Correlation Heatmap](charts/chart3_correlation_heatmap.png)
+![Correlation Heatmap](charts/Correlation_heatmap.png)
 
 ### Macroeconomic Dashboard
-![Dashboard](charts/chart4_macro_dashboard.png)
+![Dashboard](charts/Macro_Dashboard.png)
 
 ### OLS Diagnostic Plots
-![Diagnostics](charts/chart5_diagnostics.png)
+![Diagnostics](charts/Diagnostics.png)
 
 ---
 
